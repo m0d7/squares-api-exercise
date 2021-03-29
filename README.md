@@ -8,7 +8,7 @@ A user interface allows a user to import a list of points, add and delete a poin
 ### The task
 The Squares UI team is taking care of the front-end side of things, however they need your help for the backend solution.
 
-Create an API that enables the consumer to find out how many squares can be drawn from a given set of points in a 2D plane. A point is a pair of integer X and Y coordinates. A square is a set of 4 points that when connected make up, well, a square. 
+Create an API that from a given set of points in a 2D plane - enables the consumer to find out sets of points that make squares and how many squares can be drawn. A point is a pair of integer X and Y coordinates. A square is a set of 4 points that when connected make up, well, a square. 
 
 ### Example of a list of points that make up a square:
 ```[(-1;1), (1;1), (1;-1), (-1;-1)]```
