@@ -31,6 +31,7 @@ Up to you! Design API contracts how you desire - as long as the UI team can use 
 * After sending a request the consumer shouldn't wait more than 5 seconds for a response
 
 ### Bonus points stuff!
+* RESTful API
 * Documentation generated from code (hint - `Swagger`)
 * Automated tests
 * Containerization/deployment (hint - `Docker`)
