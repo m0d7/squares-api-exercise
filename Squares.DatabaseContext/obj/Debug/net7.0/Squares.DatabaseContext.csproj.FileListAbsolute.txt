@@ -1,0 +1,17 @@
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.DatabaseContext.deps.json
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.DatabaseContext.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.DatabaseContext.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.Contracts.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.Entities.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.Contracts.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/bin/Debug/net7.0/Squares.Entities.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.csproj.AssemblyReference.cache
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.AssemblyInfoInputs.cache
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.AssemblyInfo.cs
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.csproj.CoreCompileInputs.cache
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.csproj.CopyComplete
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/refint/Squares.DatabaseContext.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/Squares.DatabaseContext.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.DatabaseContext/obj/Debug/net7.0/ref/Squares.DatabaseContext.dll

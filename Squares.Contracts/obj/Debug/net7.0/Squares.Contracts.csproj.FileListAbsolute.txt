@@ -1,0 +1,15 @@
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/bin/Debug/net7.0/Squares.Contracts.deps.json
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/bin/Debug/net7.0/Squares.Contracts.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/bin/Debug/net7.0/Squares.Contracts.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/bin/Debug/net7.0/Squares.Entities.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/bin/Debug/net7.0/Squares.Entities.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.csproj.AssemblyReference.cache
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.AssemblyInfoInputs.cache
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.AssemblyInfo.cs
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.csproj.CoreCompileInputs.cache
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.csproj.CopyComplete
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/refint/Squares.Contracts.dll
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/Squares.Contracts.pdb
+/Users/edgarasadomavicius/Projects/squares-api-exercise/Squares.Contracts/obj/Debug/net7.0/ref/Squares.Contracts.dll

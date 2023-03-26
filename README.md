@@ -1,4 +1,12 @@
 # Squares API
+## Setup
+To run the application make sure you have docker engine installed in your machine. Make sure ports 5432 and 5005 aren't used.
+
+Start up the application by writing `docker compose -f docker-compose.yml up` inside of the root folder.
+
+Application documentation will be accessible through URL `http://localhost:5005/swagger/index.html".
+
+
 ## Problem Definition
 ### The bigger picture
 The Squares solution is designed to enable our enterprise consumers to identify squares from coordinates and thus make the world a better place.

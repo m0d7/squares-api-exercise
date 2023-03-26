@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AVB8wxvklQSgwkLK17yLFcBmHJCEz5QnmVbc4sxH4j4=",
+  "Source": "Squares.API",
+  "BasePath": "_content/Squares.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,42 @@
+version: '3.4'
+
+services:
+  squares_database:
+    image: postgres:latest
+    restart: always
+    environment:
+      - POSTGRES_USER=R3477Y57R0NGU53RN4M3
+      - POSTGRES_PASSWORD=R3477Y57R0NGP455W0RD
+    ports:
+      - '5432:5432'
+    volumes:
+      - database_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "sh -c 'pg_isready -U ${R3477Y57R0NGU53RN4M3} -d ${squares_database}'" ]
+      interval: 3s
+      retries: 5
+      start_period: 2s
+      timeout: 4s
+
+  squares.api:
+    build:
+      context: .
+      dockerfile: Squares.API/Dockerfile
+    volumes:
+      - api_data:/tmp/
+    ports:
+      - "5005:80"
+    environment:
+      DB_HOST: squares_database
+      DB_PORT: 5432
+      DB_USER: R3477Y57R0NGU53RN4M3
+      DB_PASSWORD: R3477Y57R0NGP455W0RD
+      DB_NAME: squares_database
+    depends_on:
+      squares_database:
+        condition: service_healthy
+volumes:
+  database_data:
+    driver: local
+  api_data:
+    driver: local
