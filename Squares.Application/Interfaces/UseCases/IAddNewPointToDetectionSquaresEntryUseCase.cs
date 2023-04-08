@@ -1,0 +1,14 @@
+﻿using Squares.Application.Requests;
+using Squares.Application.Responses;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Squares.Application.Interfaces.UseCases
+{
+    public interface IAddNewPointToDetectionSquaresEntryUseCase : IUseCaseRequestHandler<RemoveOrAddPointInDetectionSquaresEntryRequest, SquaresDetectionEntryResponse>
+    {
+    }
+}
