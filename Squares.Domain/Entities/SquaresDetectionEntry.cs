@@ -24,7 +24,9 @@ namespace Squares.Domain.Entities
             this.InputPoints = inputPoints;  
             this.DetectedSquares = new List<Square>();  
         }
-
+        /// <summary>
+        /// Using brute force it checks if given four points make a square
+        /// </summary>
         public void IdentifySquares()
         {
             var inputPointsCount = InputPoints.Count;
@@ -45,6 +47,9 @@ namespace Squares.Domain.Entities
 
         }
 
+        /// <summary>
+        /// It checks if four points make a square by using the distance between points
+        /// </summary>
         public bool ValidSquare(Point p1, Point p2, Point p3, Point p4)
         {
             HashSet<int> distinct = new HashSet<int>
@@ -60,6 +65,9 @@ namespace Squares.Domain.Entities
             return distinct.Count == 2 && !distinct.Contains(0);
         }
 
+        /// <summary>
+        /// Distance between two points
+        /// </summary>
         public static int Dist(Point p1, Point p2) => (p1.X - p2.X) * (p1.X - p2.X) + (p1.Y - p2.Y) * (p1.Y - p2.Y);
     }
 }
